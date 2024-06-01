@@ -1,2 +1,2 @@
 # codsoft
-my frist project.<br>auther-Aswani
+my frist project.<br>Author-Aswani
